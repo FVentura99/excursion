@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    font-family:  Work Sans, sans-serif;
     color: white; 
     text-align: center;
     
@@ -7,4 +8,8 @@ body {
 
 .video {
     align-items: center;
+}
+
+.Guide h4{
+    color: grey;
 }
